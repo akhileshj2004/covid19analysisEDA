@@ -1,8 +1,17 @@
-# covid19analysisEDA
-analyze the distribution and administration of COVID-19 vaccines across different states in India
+# Covid-19 Statewise Vaccine Analysis
+### Analyze the distribution and administration of COVID-19 vaccines across different states in India!
 
-### Coronaviruses, a diverse group of viruses, can lead to illnesses in both animals and humans. In humans, these viruses can cause a range of respiratory infections, from mild colds to more serious conditions like Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The newest addition to this family of viruses is the one responsible for the COVID-19 disease, as identified by the World Health Organization.
-![image](https://github.com/akhileshj2004/covid19analysisEDA/assets/168991836/bbe9b501-4c78-4432-a702-a7e02778c577)
+## Motivation: Sustainable Development Goal (SDG) 3: Ensure healthy lives and promote well-being for all at all ages.
+
+## Target 3.8:
+### Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
+
+Relevance to COVID-19 Vaccine Analysis:
+
+The analysis of COVID-19 vaccine distribution aligns with SDG 3.8 by evaluating access to essential vaccines.
+Understanding regional disparities helps identify gaps in universal health coverage.
+Insights from the analysis can guide strategies to improve vaccine deployment and healthcare services, promoting well-being and health equity.
+
 ![image](https://github.com/akhileshj2004/covid19analysisEDA/assets/168991836/47712ff3-f7cd-48bd-aeb1-0ea765807469)
 
 
