@@ -5,6 +5,9 @@
 - There are 7486 instances, i.e., Total Individuals Vaccinated.
 - Source URL: [https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india) (appeared on Kaggle).
 - The data was recorded from the beginning of 16th Jan 2021 to 12th Aug 2021.
+- size 1.4 MB+
+- Has Extreme outliers [ use treatment wisely ]
+
 
 ![image](https://github.com/akhileshj2004/covid19analysisEDA/assets/168991836/f5e87a63-94e9-4462-b9af-b4b7222259fa)
 
