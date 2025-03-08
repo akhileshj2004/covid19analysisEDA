@@ -65,9 +65,9 @@ jupyter notebook
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="mailto:akhileshjoshi2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="www.linkedin.com/in/akhilesh-joshi-aj2004"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  
 </p>
 
 ---
@@ -76,4 +76,6 @@ jupyter notebook
   <sub>© 2025 • Made with ❤️ for public health</sub>
 </p>
 
-Similar code found with 1 license type
+
+
+
