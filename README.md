@@ -1,18 +1,79 @@
-# Covid-19 Statewise Vaccine Analysis
-### Analyze the distribution and administration of COVID-19 vaccines across different states in India!
-
-## Motivation: Sustainable Development Goal (SDG) 3: Ensure healthy lives and promote well-being for all at all ages.
-
-## Target 3.8:
-### Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
-
-Relevance to COVID-19 Vaccine Analysis:
-
-The analysis of COVID-19 vaccine distribution aligns with SDG 3.8 by evaluating access to essential vaccines.
-Understanding regional disparities helps identify gaps in universal health coverage.
-Insights from the analysis can guide strategies to improve vaccine deployment and healthcare services, promoting well-being and health equity.
-
-![image](https://github.com/akhileshj2004/covid19analysisEDA/assets/168991836/47712ff3-f7cd-48bd-aeb1-0ea765807469)
+# Exploratory Data Analytics of COVID-19 Vaccination Drive in India: Insights and Lessons Learnt
 
 
-### We aim to analyze the distribution and administration of COVID-19 vaccines across different states in India. It seeks to uncover regional disparities, assess vaccination rates, understand demographic trends, address challenges, and predict future vaccine needs. By doing so, the project aims to provide actionable insights to optimize vaccine deployment strategies and combat the pandemic effectively.
+## 📋 Overview
+
+This project presents an exploratory data analysis of India's COVID-19 vaccination drive, examining patterns, disparities, and implementation challenges across different states. Through detailed statistical analysis, we uncover regional variations in vaccine distribution, demographic trends in coverage, and critical insights to inform public health policy and future vaccination strategies.
+
+## 🎯 Alignment with SDG 3: Good Health and Well-being
+
+This research directly supports **Sustainable Development Goal 3**: Ensure healthy lives and promote well-being for all at all ages.
+
+### Target 3.8:
+*Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality, and affordable essential medicines and vaccines for all.*
+
+### Relevance to Our Analysis:
+- Evaluates equitable access to essential COVID-19 vaccines across India
+- Identifies gaps in universal health coverage through regional disparity analysis
+- Provides insights to improve vaccine deployment and healthcare service delivery
+- Promotes health equity through data-driven policy recommendations
+
+## 📊 Key Findings
+
+Our analysis of nationwide vaccination data revealed:
+
+- **Age-based Prioritization**: Older age groups received priority vaccination as per government policy
+- **Vaccine Distribution**: CoviShield emerged as the most prevalent vaccine across regions
+- **Dose Administration**: Significant gaps exist in second-dose uptake, affecting complete immunization
+- **Regional Disparities**: Uneven vaccine distribution across states, highlighting accessibility challenges
+
+
+## 💻 Technologies Used
+
+```
+Python     ████████████████████ 
+Pandas     █████████████████
+Matplotlib ██████████████
+Seaborn    ████████████
+Jupyter    ███████████████████
+```
+
+## 📝 Research Publication
+
+This project has been published in a peer-reviewed IEEE conference:
+
+**Conference**: 2024 International Conference on Innovation and Novelty in Engineering and Technology (INNOVA)  
+**Date**: December 20-21, 2024  
+**DOI**: [10.1109/INNOVA63080.2024.10847026](https://ieeexplore.ieee.org/document/10847026)
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/covid19-india-vaccination-analysis.git
+
+# Navigate to the project directory
+cd covid19-india-vaccination-analysis
+
+# Install requirements
+pip install -r requirements.txt
+
+# Run Jupyter notebook
+jupyter notebook
+```
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>© 2025 • Made with ❤️ for public health</sub>
+</p>
+
+Similar code found with 1 license type
