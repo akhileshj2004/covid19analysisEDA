@@ -50,7 +50,7 @@ This project has been published in a peer-reviewed IEEE conference:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/covid19-india-vaccination-analysis.git
+git clone https://github.com/akhileshj2004/covid19analysisEDA.git
 
 # Navigate to the project directory
 cd covid19-india-vaccination-analysis
