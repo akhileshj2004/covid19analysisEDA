@@ -90,7 +90,7 @@ git clone https://github.com/akhileshj2004/covid19analysisEDA.git
 cd covid19analysisEDA
 
 # Install requirements
-pip install -r requirements.txt
+pip install (Library name)
 
 # Run Jupyter notebook
 jupyter notebook
